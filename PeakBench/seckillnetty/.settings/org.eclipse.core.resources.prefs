@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/com/phei/netty/skread/server/readDB.properties=UTF-8
+encoding//src/com/phei/netty/skread/server/readServer.properties=UTF-8
+encoding//src/com/phei/netty/skwrite/server/writeServer.properties=UTF-8
+encoding//src/log4j.properties=UTF-8
+encoding//src/skwrite=UTF-8
+encoding//src/skwrite/WriteDataGenerator.java=UTF-8
+encoding//src/util/CountCounter.java=UTF-8
+encoding/<project>=UTF-8
