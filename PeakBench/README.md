@@ -1,4 +1,4 @@
-#PeakBench
+# PeaKBench
 
 Benchmarking is an essential aspect of any database management system effort. With the study of new 
 applications having critical transaction processing requirements, we see an explosion of designing 
