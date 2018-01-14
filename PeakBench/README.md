@@ -9,3 +9,7 @@ traditional database systems by high workloads and intensive contention. Due to 
 an application-oriented benchmark simulating the real workloads, it results in lots of unnecessary 
 engineering efforts and makes the performance evaluation difficult to compare. To remedy this problem 
 and assist database selection we present PeakBench, a SecKill-oriented transactional processing (OLTP) benchmark.
+
+## Dependencies
+
++ Java (+1.8)
