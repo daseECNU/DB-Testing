@@ -13,7 +13,7 @@ workload characteristics simulating their business. One of the representative ap
 SecKill (Second Kill) which generates intensive workloads with high dynamics, severe concurrence and 
 violent contention. 
 
-The detailed usage information can be found: 
+The detailed usage information can be found: https://github.com/PeakBench/PeakBench
 
 ## Dependencies
 
